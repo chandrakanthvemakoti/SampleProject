@@ -1,6 +1,6 @@
 <template>
     <header class='header'>
-        <h1>LOGIN AND REGISTRATION FORM</h1>
+        <h1>REGISTRATION FORM</h1>
     </header>
 </template>
 
